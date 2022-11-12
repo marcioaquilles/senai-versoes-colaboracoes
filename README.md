@@ -10,6 +10,7 @@ Para rodar você precisa ter o Java JDK instalado em seu sistema e o Git para re
 🛠️ Construído com
 
 Git: Lembrei do comando git status.
+Git Lembrei do comando: git status.
 
 📌 Versão
 
